@@ -76,7 +76,7 @@ volunteering.
   in full.
 2. **Slack Channel**: Join our main slack channel on
   [helpfulengineering.slack.com](https://helpfulengineering.slack.com/) is
-  `#neighborhood-assistance`
+  `#project-neighborhood-assistance`
 3. **Trello Board:** This is where we post all the tasks we need to do,
   [Invitation Link](https://trello.com/invite/b/2QLITR5U/4375c4a349da8a7a88d8302368899a62/neighbourhood-assistance).
 4. **Team Skills Document:** Please fill out the
